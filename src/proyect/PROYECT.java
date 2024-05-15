@@ -39,6 +39,12 @@ public class PROYECT {
 
               system.out.println("calculadora grafica");
               system.out.println("Esto funciona en caso que: ");
+                            system.out.println("Sus");
+              system.out.println("TRELLO");
+              system.out.println("JIRA");
+              system.out.println("MILANESA");
+              system.out.println("PAN CON POLLO");
+
              int   resultado = numero1 + numero2;
                 System.out.println("----------------------------------------");
                 System.out.println("la suma es:" + resultado );

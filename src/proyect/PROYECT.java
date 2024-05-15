@@ -30,6 +30,7 @@ public class PROYECT {
         // HACEMOS LAS OPERACIONES EN CONDICIONALES
         switch(opcion){
             case 1 :
+              System.out.println("Hola mundo");
                 System.out.print("digite el primer numero:");
                 numero1=sc.nextInt();
                 

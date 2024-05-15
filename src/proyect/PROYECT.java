@@ -11,7 +11,10 @@ public class PROYECT {
        int opcion;
        int numero1;
        int numero2;
-       w
+       //#++_(@7qufhskjxksjf
+//27_78
+//27
+
        int uno;
         System.out.println("1- adicion");
         System.out.println("2- restar");

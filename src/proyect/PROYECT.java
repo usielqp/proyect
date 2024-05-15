@@ -146,6 +146,8 @@ public class PROYECT {
                      System.out.println("opcion no disponible");
                 break; 
               //scolocamos los resultados        }
+System.out.println("Fin del programa");
+Sistema.out.println("Gracias por usar el programa");
     }
     
 }

@@ -13,7 +13,7 @@ public class PROYECT {
        int numero2;
        w
        int uno;
-        System.out.println("1- sumar");
+        System.out.println("1- adicion");
         System.out.println("2- restar");
         System.out.println("3- multiplicar");
         System.out.println("4- dividir");
@@ -30,7 +30,7 @@ public class PROYECT {
         // HACEMOS LAS OPERACIONES EN CONDICIONALES
         switch(opcion){
             case 1 :
-              System.out.println("Hola mundo Rh cooperaciones proyecto");
+              System.out.println("Hola mundo Relaciones Humanas cooperaciones proyecto");
                 System.out.print("digite el primer numero:");
                 numero1=sc.nextInt();
                 
@@ -83,7 +83,7 @@ public class PROYECT {
                 numero2=sc.nextInt();
                 if(numero2==0 ){
                     System.out.println("  ");
-                    System.out.println("no se puede dividir entre 0");
+                    System.out.println("no es posible dividir entre 0");
                     System.out.println("");
                 }
                 else{
@@ -93,11 +93,11 @@ public class PROYECT {
                 System.out.println(".......................................................");}
                 break;
                 case 5 :
-                System.out.print("digite el primer numero:");
+                System.out.print("digite el primer numero: ");
                 numero1=sc.nextInt();
                resultado = (int)Math.sqrt(numero1);
                 System.out.println("----------------------------------------");
-                System.out.println("la raizcuadrada es:" + resultado );
+                System.out.println("la raizcuadrada es: " + resultado );
                 System.out.println(".......................................................");
                 break; 
                 case 6 :
@@ -138,14 +138,14 @@ public class PROYECT {
                  case 9 :
                      System.out.println("");
                      System.out.println("");
-                System.out.print("usted salio de calculadora");
+                System.out.print("Usted ha salio de calculadora");
                 
                      System.out.println("");
                 
                  default: 
                      System.out.println("opcion no disponible");
                 break; 
-              //scolocamos los resultados        }
+              //colocamos los resultados        }
 System.out.println("Fin del programa");
 Sistema.out.println("Gracias por usar el programa");
     }

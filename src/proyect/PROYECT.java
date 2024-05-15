@@ -148,6 +148,9 @@ public class PROYECT {
               //colocamos los resultados        }
 System.out.println("Fin del programa");
 Sistema.out.println("Gracias por usar el programa");
+//3&*+&#(5$-)_(5*?-*+5
+//68$(&$(5$(-"-);"?-;"(&"
+//-("(&*(&*(-$)6$(
     }
     
 }

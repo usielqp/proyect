@@ -12,7 +12,7 @@ public class PROYECT {
        int numero1;
        int numero2;
        
-       
+       int uno;
         System.out.println("1- sumar");
         System.out.println("2- restar");
         System.out.println("3- multiplicar");

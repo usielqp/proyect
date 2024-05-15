@@ -11,7 +11,7 @@ public class PROYECT {
        int opcion;
        int numero1;
        int numero2;
-       
+       w
        int uno;
         System.out.println("1- sumar");
         System.out.println("2- restar");
@@ -36,7 +36,9 @@ public class PROYECT {
                 
                 System.out.print("digite el segundo numero: ");
                 numero2=sc.nextInt();
-                
+
+              system.out.println("calculadora grafica");
+              system.out.println("Esto funciona en caso que: ");
              int   resultado = numero1 + numero2;
                 System.out.println("----------------------------------------");
                 System.out.println("la suma es:" + resultado );

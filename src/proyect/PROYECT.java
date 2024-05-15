@@ -23,7 +23,7 @@ public class PROYECT {
         System.out.println("8- hallar su porcentaje");
         System.out.println("9- salir");
         System.out.println("");
-        
+        t
          System.out.println("elija la opcion");
          opcion= sc.nextInt();
          
@@ -133,8 +133,8 @@ public class PROYECT {
                 
                  default: 
                      System.out.println("opcion no disponible");
-                break;
-        }
+                break; 
+              //scolocamos los resultados        }
     }
     
 }

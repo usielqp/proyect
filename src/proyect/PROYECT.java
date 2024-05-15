@@ -45,6 +45,7 @@ public class PROYECT {
               system.out.println("MILANESA");
               system.out.println("PAN CON POLLO");
               system.out.println("PAPALIZA");
+              system.out.println("iZI");
 
              int   resultado = numero1 + numero2;
                 System.out.println("----------------------------------------");
